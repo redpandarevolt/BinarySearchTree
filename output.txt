@@ -1,0 +1,247 @@
+Script started on Mon 15 Jul 2019 09:09:23 PM PDT
+]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g[K]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:09:23] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m g++ -std=c++14 -g -Wall -Wextra BinTree.pp[K[K[K.cpp .[Kmain.cpp nodedata.cpp -oBin[K[K[K BinTree
+[01m[KBinTree.cpp:[m[K In member function ‘[01m[Kint BinTree::getHeight(const NodeData&) const[m[K’:
+[01m[KBinTree.cpp:187:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+ [01;35m[K}[m[K
+ [01;35m[K^[m[K
+[01m[KBinTree.cpp:[m[K In member function ‘[01m[Kbool BinTree::retrieveHelper(BinTree::Node*, const NodeData&, NodeData*&) const[m[K’:
+[01m[KBinTree.cpp:168:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+ [01;35m[K}[m[K
+ [01;35m[K^[m[K
+]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:11:14] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m ./BinTree
+Open file using ifstream ---------------------------------------------
+
+   File Opened Successfully.
+
+
+Create test Nodes ----------------------------------------------------
+
+     Test nodes: jj pp bbb cat ooo ddd e m dog
+
+
+Initialize BinTree, Nodes and Array and Test functions ----------------
+
+
+Initial Data: iii not tttt eee r not and jj r eee pp r sssss eee not tttt ooo ff m m y z $$ 
+Tree inOrder: and eee ff iii jj m not ooo pp r sssss tttt y z 
+
+
+                        z
+                    y
+                tttt
+                        sssss
+                    r
+                        pp
+                            ooo
+            not
+                    m
+                jj
+        iii
+                ff
+            eee
+                and
+
+Retrieve node jj: located
+Retrieve node pp: located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: located
+Height    --> and:  1
+Height    --> not:  5
+Height    --> sss:  0
+Height    --> tttt:  4
+Height    --> ooo:  1
+Height    --> y:  2
+T == T2?     equal
+T != first?  equal
+T == dup?    equal
+                    z
+                y
+                    tttt
+            sssss
+                    r
+                pp
+                    ooo
+        not
+                    m
+                jj
+                    iii
+            ff
+                    eee
+                and
+---------------------------------------------------------------
+Initial data:  b a c b a c $$ 
+Tree inOrder: a b c 
+
+
+            c
+        b
+            a
+
+Retrieve node jj: not located
+Retrieve node pp: not located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: not located
+Height    --> and:  0
+Height    --> not:  0
+Height    --> sss:  0
+Height    --> tttt:  0
+Height    --> ooo:  0
+Height    --> y:  0
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+            c
+        b
+            a
+---------------------------------------------------------------
+Initial data:  c b a $$ 
+        c
+            b
+                a
+
+Retrieve node jj: not located
+Retrieve node pp: not located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: not located
+Height    --> and:  0
+Height    --> not:  0
+Height    --> sss:  0
+Height    --> tttt:  0
+Height    --> ooo:  0
+Height    --> y:  0
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:11:24] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m valgrind ./BinTree
+==3869== Memcheck, a memory error detector
+==3869== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==3869== Using Valgrind-3.12.0.SVN and LibVEX; rerun with -h for copyright info
+==3869== Command: ./BinTree
+==3869== 
+Open file using ifstream ---------------------------------------------
+
+   File Opened Successfully.
+
+
+Create test Nodes ----------------------------------------------------
+
+     Test nodes: jj pp bbb cat ooo ddd e m dog
+
+
+Initialize BinTree, Nodes and Array and Test functions ----------------
+
+
+Initial Data: iii not tttt eee r not and jj r eee pp r sssss eee not tttt ooo ff m m y z $$ 
+Tree inOrder: and eee ff iii jj m not ooo pp r sssss tttt y z 
+
+
+                        z
+                    y
+                tttt
+                        sssss
+                    r
+                        pp
+                            ooo
+            not
+                    m
+                jj
+        iii
+                ff
+            eee
+                and
+
+Retrieve node jj: located
+Retrieve node pp: located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: located
+Height    --> and:  1
+Height    --> not:  5
+Height    --> sss:  0
+Height    --> tttt:  4
+Height    --> ooo:  1
+Height    --> y:  2
+T == T2?     equal
+T != first?  equal
+T == dup?    equal
+                    z
+                y
+                    tttt
+            sssss
+                    r
+                pp
+                    ooo
+        not
+                    m
+                jj
+                    iii
+            ff
+                    eee
+                and
+---------------------------------------------------------------
+Initial data:  b a c b a c $$ 
+Tree inOrder: a b c 
+
+
+            c
+        b
+            a
+
+Retrieve node jj: not located
+Retrieve node pp: not located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: not located
+Height    --> and:  0
+Height    --> not:  0
+Height    --> sss:  0
+Height    --> tttt:  0
+Height    --> ooo:  0
+Height    --> y:  0
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+            c
+        b
+            a
+---------------------------------------------------------------
+Initial data:  c b a $$ 
+        c
+            b
+                a
+
+Retrieve node jj: not located
+Retrieve node pp: not located
+Retrieve node cat: not located
+Retrieve node dog: not located
+Retrieve node m: not located
+Height    --> and:  0
+Height    --> not:  0
+Height    --> sss:  0
+Height    --> tttt:  0
+Height    --> ooo:  0
+Height    --> y:  0
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+==3869== 
+==3869== HEAP SUMMARY:
+==3869==     in use at exit: 2,576 bytes in 104 blocks
+==3869==   total heap usage: 183 allocs, 79 frees, 87,448 bytes allocated
+==3869== 
+==3869== LEAK SUMMARY:
+==3869==    definitely lost: 2,576 bytes in 104 blocks
+==3869==    indirectly lost: 0 bytes in 0 blocks
+==3869==      possibly lost: 0 bytes in 0 blocks
+==3869==    still reachable: 0 bytes in 0 blocks
+==3869==         suppressed: 0 bytes in 0 blocks
+==3869== Rerun with --leak-check=full to see details of leaked memory
+==3869== 
+==3869== For counts of detected and suppressed errors, rerun with: -v
+==3869== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+]0;chela@uw1-320-04: ~/343Summer/BinTree[1;30m[21:11:52] [1;35mchela[1;30m@[1;32muw1-320-04: [1;30m~/343Summer/[36mBinTree [1;30m$[0m exit
+
+Script done on Mon 15 Jul 2019 09:12:03 PM PDT
