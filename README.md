@@ -1,5 +1,7 @@
 # BinarySearchTree
 
+## Summer 2019, Data Structures, Algorithms, and Discrete Mathematics II
+
 ##### Purpose
 
 This program is to create a binary search tree class called BinTree along with some additional functions (remove function is not required). 
