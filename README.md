@@ -1,6 +1,6 @@
 # BinarySearchTree
 
-## Summer 2019, Data Structures, Algorithms, and Discrete Mathematics II
+### Summer 2019 Data Structures, Algorithms, and Discrete Mathematics II, UW Bothell
 
 ##### Purpose
 
